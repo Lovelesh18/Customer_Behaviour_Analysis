@@ -51,6 +51,7 @@ Loyal customers contribute the most to long-term business value despite being fe
 ## 📊 Chapter 3: Power BI Dashboard
 
 # PREVIEW
+https://app.powerbi.com/links/LxrNniua69?ctid=2f92ea15-59f2-476f-bc65-744864fa2fc9&pbi_source=linkShare
 
 An interactive Power BI dashboard was created to visualize key business metrics, including:
 - Customer segmentation overview  
